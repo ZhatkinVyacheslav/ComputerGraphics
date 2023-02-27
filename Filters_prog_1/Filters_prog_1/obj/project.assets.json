@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\e_zha\\.nuget\\packages\\": {}
+    "C:\\Users\\T1632\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\prog\\ComputerGraphics\\Filters_prog_1\\Filters_prog_1\\Filters_prog_1.csproj",
+      "projectUniqueName": "C:\\Users\\T1632\\Downloads\\ComputerGraphics-main\\ComputerGraphics-main\\Filters_prog_1\\Filters_prog_1\\Filters_prog_1.csproj",
       "projectName": "Filters_prog_1",
-      "projectPath": "D:\\prog\\ComputerGraphics\\Filters_prog_1\\Filters_prog_1\\Filters_prog_1.csproj",
-      "packagesPath": "C:\\Users\\e_zha\\.nuget\\packages\\",
-      "outputPath": "D:\\prog\\ComputerGraphics\\Filters_prog_1\\Filters_prog_1\\obj\\",
+      "projectPath": "C:\\Users\\T1632\\Downloads\\ComputerGraphics-main\\ComputerGraphics-main\\Filters_prog_1\\Filters_prog_1\\Filters_prog_1.csproj",
+      "packagesPath": "C:\\Users\\T1632\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\T1632\\Downloads\\ComputerGraphics-main\\ComputerGraphics-main\\Filters_prog_1\\Filters_prog_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\e_zha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\T1632\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

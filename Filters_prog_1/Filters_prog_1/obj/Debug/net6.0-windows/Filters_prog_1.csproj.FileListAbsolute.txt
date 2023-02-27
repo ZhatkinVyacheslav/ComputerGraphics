@@ -1,0 +1,17 @@
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\bin\Debug\net6.0-windows\Filters_prog_1.exe
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\bin\Debug\net6.0-windows\Filters_prog_1.deps.json
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\bin\Debug\net6.0-windows\Filters_prog_1.runtimeconfig.json
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\bin\Debug\net6.0-windows\Filters_prog_1.dll
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\bin\Debug\net6.0-windows\Filters_prog_1.pdb
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.csproj.AssemblyReference.cache
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.Form1.resources
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.csproj.GenerateResource.cache
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.AssemblyInfoInputs.cache
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.AssemblyInfo.cs
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.csproj.CoreCompileInputs.cache
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.dll
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\refint\Filters_prog_1.dll
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.pdb
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\Filters_prog_1.genruntimeconfig.cache
+C:\Users\T1632\Downloads\ComputerGraphics-main\ComputerGraphics-main\Filters_prog_1\Filters_prog_1\obj\Debug\net6.0-windows\ref\Filters_prog_1.dll
