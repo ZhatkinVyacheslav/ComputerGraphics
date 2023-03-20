@@ -19,3 +19,14 @@ C:\ArutyunyanAyk\Computer_graphics\Computer_graphics\lab_work1\lab_work1\obj\Deb
 C:\ArutyunyanAyk\Computer_graphics\Computer_graphics\lab_work1\lab_work1\bin\Debug\lab_work1.exe.config
 C:\ArutyunyanAyk\Computer_graphics\Computer_graphics\lab_work1\lab_work1\bin\Debug\lab_work1.exe
 C:\ArutyunyanAyk\Computer_graphics\Computer_graphics\lab_work1\lab_work1\bin\Debug\lab_work1.pdb
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.csproj.AssemblyReference.cache
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.csproj.SuggestedBindingRedirects.cache
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.Form1.resources
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.Properties.Resources.resources
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.csproj.GenerateResource.cache
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.csproj.CoreCompileInputs.cache
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.exe
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\obj\Debug\lab_work1.pdb
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\bin\Debug\lab_work1.exe.config
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\bin\Debug\lab_work1.exe
+C:\Users\T1632\Downloads\ComputerGraphics-Works\ComputerGraphics-Works\lab_work1\lab_work1\bin\Debug\lab_work1.pdb
