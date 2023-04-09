@@ -55,11 +55,17 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="GaussianFilter.cs" />
+    <Compile Include="Glass.cs" />
     <Compile Include="GrayScaleFilter.cs" />
     <Compile Include="MatrixFilter.cs" />
+    <Compile Include="Maximum.cs" />
+    <Compile Include="Median.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sepia.cs" />
+    <Compile Include="Sharpness.cs" />
+    <Compile Include="Waves1.cs" />
+    <Compile Include="Waves2.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

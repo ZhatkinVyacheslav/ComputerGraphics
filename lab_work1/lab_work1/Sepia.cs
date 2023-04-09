@@ -16,7 +16,7 @@ namespace lab_work1
             double Intensity = sourseColor.R * 0.36 + sourseColor.G * 0.53 + 0.11 * sourseColor.B;
             double resultR = Intensity + 2 * k;
             double resultG = Intensity + 0.5 * k;
-            double resultB = Intensity + 1 * k;
+            double resultB = Intensity - 1 * k;
 
             return Color.FromArgb(
                 Clamp((int)resultR, 0, 255),

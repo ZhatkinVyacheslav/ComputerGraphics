@@ -36,7 +36,6 @@ namespace lab_work1
                     resultImage.SetPixel(i, j, calculateNewPixelColor(sourseImage, i, j));
                 }
             }
-
             return resultImage;
         }
 

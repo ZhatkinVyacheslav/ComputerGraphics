@@ -12,11 +12,11 @@ namespace lab_work1
         protected override Color calculateNewPixelColor(Bitmap sourseImage, int x, int y)
         {
             Color sourseColor = sourseImage.GetPixel(x, y);
-            double Intensity = sourseColor.R * 0.36 + sourseColor.G * 0.53 + 0.11 * sourseColor.B;
-
-            Color resultColor = Color.FromArgb(Clamp((int)Intensity, (int)Intensity, (int)Intensity));
+            int Intensity = (int)((sourseColor.R * 0.36) + (sourseColor.G * 0.53) + (sourseColor.B * 0.11));
+            Color resultColor = Color.FromArgb(Intensity, Intensity, Intensity);
 
             return resultColor;
         }
     }
 }
+    

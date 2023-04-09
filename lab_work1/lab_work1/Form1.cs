@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -14,7 +15,9 @@ namespace lab_work1
 {
     public partial class Form1 : Form
     {
+
         Bitmap image;
+
         public Form1()
         {
             InitializeComponent();
@@ -25,14 +28,16 @@ namespace lab_work1
             OpenFileDialog dialog = new OpenFileDialog();
             dialog.Filter = "Image files | *.png; *.jpg; *.bmp | All Files (*.*) | *.*";
 
-            if (dialog.ShowDialog() == DialogResult.OK)
+            if (dialog.ShowDialog() != DialogResult.OK)
+            {
+            }
+            else
             {
                 image = new Bitmap(dialog.FileName);
             }
-
             pictureBox1.Image = image;
             pictureBox1.Refresh();
-        }  
+        }
         private void инверсияToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             Filters filter = new InvertFilter();
@@ -88,6 +93,42 @@ namespace lab_work1
         private void сепияToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Filters filter = new Sepia();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void волна1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Waves1();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void волна2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Waves2();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void стеклоToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Glass();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void максимумToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Maximum();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void медианныйToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Median();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void резкостьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Sharpness();
             backgroundWorker1.RunWorkerAsync(filter);
         }
     }
