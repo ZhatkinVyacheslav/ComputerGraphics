@@ -131,5 +131,11 @@ namespace lab_work1
             Filters filter = new Sharpness();
             backgroundWorker1.RunWorkerAsync(filter);
         }
+
+        private void фильтрСобеляToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Sobel();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
     }
 }
