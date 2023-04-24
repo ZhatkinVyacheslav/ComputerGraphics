@@ -21,9 +21,6 @@ namespace lab_work1
         {
             int radiusX = (int)(kernel.GetLength(0) * 0.5);
             int radiusY = (int)(kernel.GetLength(1) * 0.5);
-            float resultR = 0;
-            float resultG = 0;
-            float resultB = 0;
             int sizeF = sizeX * sizeY;
             float[] massP = new float[sizeF];
             float[] massR = new float[sizeF];

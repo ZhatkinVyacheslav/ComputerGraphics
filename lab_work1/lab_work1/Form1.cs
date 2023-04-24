@@ -98,13 +98,13 @@ namespace lab_work1
 
         private void волна1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Filters filter = new Waves1();
+            Filters filter = new Waves2();
             backgroundWorker1.RunWorkerAsync(filter);
         }
 
         private void волна2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Filters filter = new Waves2();
+            Filters filter = new Waves1();
             backgroundWorker1.RunWorkerAsync(filter);
         }
 
@@ -134,7 +134,19 @@ namespace lab_work1
 
         private void фильтрСобеляToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Filters filter = new Sobel();
+            Filters filter = new SobelFilter();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void переносToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Transfer();
+            backgroundWorker1.RunWorkerAsync(filter);
+        }
+
+        private void поворотToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Filters filter = new Rotation();
             backgroundWorker1.RunWorkerAsync(filter);
         }
     }

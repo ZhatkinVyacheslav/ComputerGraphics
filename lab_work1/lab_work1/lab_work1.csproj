@@ -62,9 +62,11 @@
     <Compile Include="Median.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rotation.cs" />
     <Compile Include="Sepia.cs" />
     <Compile Include="Sharpness.cs" />
-    <Compile Include="Sobel.cs" />
+    <Compile Include="SobelFilter.cs" />
+    <Compile Include="Transfer.cs" />
     <Compile Include="Waves1.cs" />
     <Compile Include="Waves2.cs" />
     <EmbeddedResource Include="Form1.resx">
