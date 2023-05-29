@@ -13,7 +13,7 @@ namespace lab_work1
         {
             try
             {
-                return sourceImage.GetPixel((int)(x + (20 * Math.Sin((2 * Math.PI * y) / 60))), y);
+                return sourceImage.GetPixel((int)(x + (20 * Math.Sin(2 * Math.PI * y / 60))), y);
             }
             catch
             {
